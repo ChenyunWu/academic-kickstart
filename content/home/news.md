@@ -22,13 +22,13 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
 
-- ECCV
-- Intern 
-- CVPR 
-- Thesis proposal
+- **[07/2020]** My paper "Describing Textures using Natural Language" was accepted in **ECCV 2020** as an oral paper. It will be presented live on 8/26 9:50 pm (EST) with Zoom QA sessions on 8/27 9-11 am & 7-9 pm (EST).
+- **[06/2020]** I started my research internship at **ByteDance** in Mountain View. I will be working on video and language.
+- **[05/2020]** I formed my PhD dissertation comittee and passed my dissertation proposal. I target to graduate in 05/2021.
+- **[03/2020]** My paper "PhraseCut: Language-based Image Segmentation in the Wild" was accepted in **CVPR 2020**. It's collaboration work with Adobe Research. 
 

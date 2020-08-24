@@ -21,23 +21,36 @@ date_format = "Jan 2006"
   title = "Computer Vision Research Intern"
   company = "ByteDance"
   company_url = "https://www.bytedance.com/en/"
+  location = "Mountain View, CA, US" 
   date_start = "2020-06-01"
   date_end = "2020-09-04"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+I have been working with Xiaohui Shen, Xiaojie Jin and Longyin Wen on the combination of video and natural language.
+"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Computer Vision Research Intern"
+  company = "Adobe"
+  company_url = "https://www.adobe.com/"
+  location = "San Jose, CA, US"
+  date_start = "2018-05-01"
+  date_end = "2019-03-01"
+  description = """
+I Worked with Zhe Lin, Scott Cohen and Trung Bui on large-scale visual grounding. Our work was published on CVPR 2020 as "PhraseCut: Language-based Image Segmentation in the Wild".
+  """
+  
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Google"
+  company_url = "https://www.google.com/"
+  location = "Mountain View, CA, US"
+  date_start = "2017-06-01"
+  date_end = "2017-09-01"
+  description = """
+I Worked with Nick Johnston, George Toderici,  David Minnen and Michele Covell on deep image compression.
+- Implemented a U-Net image compression model with quantizers and binarizers on skip connections at different levels.. 
+- Designed and tuned the training procedure to analyze the effectiveness of each skip connection.
+- Enabled different trade-offs between compression size and quality by turning on and off some skip connections.
+  """
 
 +++
