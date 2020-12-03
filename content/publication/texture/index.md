@@ -67,7 +67,7 @@ slides: ""
 
 ### **Presentation**
 <video width="100%" controls>
-  <source src="/media/Texture-2min.mp4" type="video/mp4"> </source>
+  <source src="/~chenyun/media/Texture-2min.mp4" type="video/mp4"> </source>
 </video>
 
 A 10-min presentation is available [here](https://drive.google.com/file/d/1VjtH18EWsZmYvOK1y8oNYu5nPSGDj33h/view?usp=sharing).
@@ -77,4 +77,4 @@ We introduce our Describable Textures in Detail Dataset (DTD2), where descriptio
 You can follow [this link](https://github.com/ChenyunWu/DescribingTextures) to download our code and dataset.
 Below are a few examples.
 
-![data_example](/media/texture_data.jpg)
+![data_example](/~chenyun/media/texture_data.jpg)

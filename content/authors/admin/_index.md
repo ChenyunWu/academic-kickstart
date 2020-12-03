@@ -62,10 +62,10 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I'm a fifth-year PhD student from [Computer Vision Lab](http://vis-www.cs.umass.edu/) at [CICS UMass Amherst](https://www.cics.umass.edu/), advised by Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/). Before joining UMass, I obtained my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2015 with double majors in physics and computer softwares.
+I'm a sixth-year PhD student from [Computer Vision Lab](http://vis-www.cs.umass.edu/) at [CICS UMass Amherst](https://www.cics.umass.edu/), advised by Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/). Before joining UMass, I obtained my bachelor's degree from [Peking University](http://english.pku.edu.cn/) in 2015 with double majors in physics and computer softwares.
 
 I'm interested in broad topics in computer vision, especially the combination of vision and natural language. I study the joint modeling of visual and language signals, and leverage the supervision of language to further understand various visual domains including fine-grained categories, objects/stuff in images, visual textures, and videos.
 
 **I'm expected to graduate in May 2021. I'm looking for research positions in industry as well as post-doc opportunities in academia.** 
 
-My one-page resume can be downloaded [here](/files/ChenyunWu_UMassAmherst_ComputerVisionResearch.pdf).
+My one-page resume can be downloaded [here](files/ChenyunWu_UMassAmherst_ComputerVisionResearch.pdf).

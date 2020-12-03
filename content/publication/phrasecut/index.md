@@ -69,10 +69,10 @@ slides: ""
 
 ### **Presentation**
 <video width="100%" controls>
-  <source src="/media/phrasecut-1min.mp4" type="video/mp4"> </source>
+  <source src="/~chenyun/media/phrasecut-1min.mp4" type="video/mp4"> </source>
 </video>
 
 ### **Dataset**
 We introduce VGPhraseCut Dataset, which is aimed for segmenting anything on an image based on a regional description phrase. The dataset is collected based on Visual Genome. It contains 345,486 phrase-region pairs. Each phrase contains explicit annotations of which words describe the category name, attributes, and relationships with other things in the image respectively. The corresponding region described by the phrase is a binary segmentation mask on the image. Dataset and API code can be downloaded [here](https://github.com/ChenyunWu/PhraseCutDataset). Below are a few examples.
 
-![example](/media/phrasecut_data.jpg)
+![example](/~chenyun/media/phrasecut_data.jpg)
