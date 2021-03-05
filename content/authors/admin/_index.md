@@ -66,6 +66,6 @@ I'm a sixth-year PhD student from [Computer Vision Lab](http://vis-www.cs.umass.
 
 I'm interested in broad topics in computer vision, especially the combination of vision and natural language. I study the joint modeling of visual and language signals, and leverage the supervision of language to further understand various visual domains including fine-grained categories, objects/stuff in images, visual textures, and videos.
 
-**I'm expected to graduate in May 2021. I'm looking for research positions in industry as well as post-doc opportunities in academia.** 
+**I'm expected to graduate in Summer 2021. I'm looking for research positions in the industry.** 
 
-My one-page resume can be downloaded [here](files/ChenyunWu_UMassAmherst_ComputerVisionResearch.pdf).
+More details are covered in my [resume](files/ChenyunWu_UMass_ComputerVision_Fulltime.pdf) and [research statement](files/ChenyunWu_ResearchStatement.pdf).
